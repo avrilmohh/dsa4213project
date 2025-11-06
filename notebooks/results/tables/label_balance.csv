@@ -1,0 +1,11 @@
+split,label,count,ratio
+imdb_train,0,12500,0.5
+imdb_train,1,12500,0.5
+imdb_test,0,12500,0.5
+imdb_test,1,12500,0.5
+rt_train,0,4265,0.5
+rt_train,1,4265,0.5
+rt_val,0,533,0.5
+rt_val,1,533,0.5
+rt_test,0,533,0.5
+rt_test,1,533,0.5
