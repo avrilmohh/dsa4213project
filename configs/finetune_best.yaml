@@ -1,0 +1,13 @@
+model_name: "distilbert-base-uncased"
+max_length: 256
+lr: 2e-5
+batch_size: 16
+epochs: 3
+weight_decay: 0.01
+warmup_ratio: 0.06
+gradient_accumulation_steps: 1
+output_tables: "results/tables"
+output_figures: "results/figures"
+output_preds: "results/preds"
+output_models: "models"
+seed: 42
