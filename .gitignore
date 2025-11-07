@@ -4,9 +4,6 @@ models/
 
 data/
 !data/splits/
-results/
-!results/tables/
-!results/figures/
 
 __pycache__/
 .ipynb_checkpoints/
