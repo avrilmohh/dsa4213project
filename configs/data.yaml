@@ -16,3 +16,5 @@ max_samples: null
 output_tables: "results/tables"
 output_figures: "results/figures"
 output_splits: "data/splits"
+output_preds: "results/preds"
+output_models: "models"
