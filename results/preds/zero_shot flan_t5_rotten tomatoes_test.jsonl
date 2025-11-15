@@ -191,7 +191,7 @@
 {"text": "it plays like a big-budget , after-school special with a generous cast , who at times lift the material from its well-meaning clunkiness .", "label": 0, "pred": 1, "prob_pos": 1.0}
 {"text": "the campy results make mel brooks' borscht belt schtick look sophisticated .", "label": 0, "pred": 1, "prob_pos": 1.0}
 {"text": "the visuals alone make metropolis worth seeing .", "label": 1, "pred": 1, "prob_pos": 1.0}
-{"text": "let's hope -- shall we ? -- that the 'true story' by which all the queen's men is allegedly \" inspired \" was a lot funnier and more deftly enacted than what's been cobbled together onscreen .", "label": 0, "pred": 0, "prob_pos": 0.0}
+{"text": "let's hope -- shall we ? -- that the 'true story' by which all the queen's men is allegedly \" inspired \" was a lot funnier and more deftly enacted than what's been cobbled together onscreen .", "label": 0, "pred": 1, "prob_pos": 1.0}
 {"text": "the filmmakers keep pushing the jokes at the expense of character until things fall apart .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "like a poor man's you can count on me", "label": 1, "pred": 0, "prob_pos": 0.0}
 {"text": "jones helps breathe some life into the insubstantial plot , but even he is overwhelmed by predictability .", "label": 0, "pred": 1, "prob_pos": 1.0}
@@ -235,7 +235,7 @@
 {"text": "strident and inelegant in its 'message-movie' posturing .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "a free-for-all of half-baked thoughts , clumsily used visual tricks and self-indulgent actor moments .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "despite the fact that this film wasn't as bad as i thought it was going to be , it's still not a good movie", "label": 0, "pred": 0, "prob_pos": 0.0}
-{"text": "'like a child with an important message to tell . . . [skins'] faults are easy to forgive because the intentions are lofty . '", "label": 1, "pred": 1, "prob_pos": 1.0}
+{"text": "'like a child with an important message to tell . . . [skins'] faults are easy to forgive because the intentions are lofty . '", "label": 1, "pred": 0, "prob_pos": 0.0}
 {"text": "it finds its moviegoing pleasures in the tiny events that could make a person who has lived her life half-asleep suddenly wake up and take notice .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "this is not chabrol's best , but even his lesser works outshine the best some directors can offer .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "tsai may be ploughing the same furrow once too often .", "label": 0, "pred": 0, "prob_pos": 0.0}
@@ -333,14 +333,14 @@
 {"text": "choppy , overlong documentary about 'the lifestyle . '", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "this orange has some juice , but it's far from fresh-squeezed .", "label": 1, "pred": 0, "prob_pos": 0.0}
 {"text": "alternates between deadpan comedy and heartbreaking loneliness and isn't afraid to provoke introspection in both its characters and its audience .", "label": 1, "pred": 1, "prob_pos": 1.0}
-{"text": "gooding offers a desperately ingratiating performance .", "label": 0, "pred": 0, "prob_pos": 0.0}
+{"text": "gooding offers a desperately ingratiating performance .", "label": 0, "pred": 1, "prob_pos": 1.0}
 {"text": "nervous breakdowns are not entertaining .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "a plodding look at the french revolution through the eyes of aristocrats .", "label": 0, "pred": 1, "prob_pos": 1.0}
 {"text": "ihops don't pile on this much syrup .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": ". . . the sum of the parts equals largely a confused mediocrity .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "if divine secrets of the ya-ya sisterhood suffers from a ploddingly melodramatic structure , it comes to life in the performances .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "'rare birds' tries to force its quirkiness upon the audience .", "label": 0, "pred": 0, "prob_pos": 0.0}
-{"text": "directed by kevin bray , whose crisp framing , edgy camera work , and wholesale ineptitude with acting , tone and pace very obviously mark him as a video helmer making his feature debut .", "label": 0, "pred": 1, "prob_pos": 1.0}
+{"text": "directed by kevin bray , whose crisp framing , edgy camera work , and wholesale ineptitude with acting , tone and pace very obviously mark him as a video helmer making his feature debut .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "the performances are an absolute joy .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "don't hate el crimen del padre amaro because it's anti-catholic . hate it because it's lousy .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "marvelous , merry and , yes , melancholy film .", "label": 1, "pred": 1, "prob_pos": 1.0}
@@ -352,9 +352,9 @@
 {"text": "uses sharp humor and insight into human nature to examine class conflict , adolescent yearning , the roots of friendship and sexual identity .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "most thrillers send audiences out talking about specific scary scenes or startling moments ; \" frailty \" leaves us with the terrifying message that the real horror may be waiting for us at home .", "label": 1, "pred": 0, "prob_pos": 0.0}
 {"text": "bray is completely at sea ; with nothing but a savage garden music video on his resume , he has no clue about making a movie .", "label": 0, "pred": 0, "prob_pos": 0.0}
-{"text": "for all of its insights into the dream world of teen life , and its electronic expression through cyber culture , the film gives no quarter to anyone seeking to pull a cohesive story out of its 2 1/2-hour running time .", "label": 0, "pred": 0, "prob_pos": 0.0}
+{"text": "for all of its insights into the dream world of teen life , and its electronic expression through cyber culture , the film gives no quarter to anyone seeking to pull a cohesive story out of its 2 1/2-hour running time .", "label": 0, "pred": 1, "prob_pos": 1.0}
 {"text": "barney's ideas about creation and identity don't really seem all that profound , at least by way of what can be gleaned from this three-hour endurance test built around an hour's worth of actual material .", "label": 0, "pred": 0, "prob_pos": 0.0}
-{"text": "city by the sea is the cinematic equivalent of defensive driving : it's careful , conscientious and makes no major mistakes . but what saves lives on the freeway does not necessarily make for persuasive viewing .", "label": 0, "pred": 0, "prob_pos": 0.0}
+{"text": "city by the sea is the cinematic equivalent of defensive driving : it's careful , conscientious and makes no major mistakes . but what saves lives on the freeway does not necessarily make for persuasive viewing .", "label": 0, "pred": 1, "prob_pos": 1.0}
 {"text": "the overall effect is so completely inane that one would have to be mighty bored to even think of staying with this for more than , say , ten . . . make that three minutes .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "the production values are of the highest and the performances attractive without being memorable .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "rife with nutty cliches and far too much dialogue .", "label": 0, "pred": 0, "prob_pos": 0.0}
@@ -393,7 +393,7 @@
 {"text": "as unseemly as its title suggests .", "label": 1, "pred": 0, "prob_pos": 0.0}
 {"text": "the appearance of treebeard and gollum's expanded role will either have you loving what you're seeing , or rolling your eyes . i loved it ! gollum's 'performance' is incredible !", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "while guzmán frustratingly refuses to give pinochet's crimes a political context , his distance from the material is mostly admirable .", "label": 1, "pred": 1, "prob_pos": 1.0}
-{"text": "insomnia does not become one of those rare remakes to eclipse the original , but it doesn't disgrace it , either .", "label": 1, "pred": 0, "prob_pos": 0.0}
+{"text": "insomnia does not become one of those rare remakes to eclipse the original , but it doesn't disgrace it , either .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "the real triumphs in igby come from philippe , who makes oliver far more interesting than the character's lines would suggest , and sarandon , who couldn't be better as a cruel but weirdly likable wasp matron .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "clever and unflinching in its comic barbs , slap her is a small but rewarding comedy that takes aim at contemporary southern adolescence and never lets up .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "a visionary marvel , but it's lacking a depth in storytelling usually found in anime like this .", "label": 1, "pred": 0, "prob_pos": 0.0}
@@ -433,7 +433,7 @@
 {"text": "shreve's graceful dual narrative gets clunky on the screen , and we keep getting torn away from the compelling historical tale to a less-compelling soap opera .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "this version of h . g . wells' time machine was directed by h . g . wells' great-grandson . they should have found orson welles' great-grandson .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "instead of a hyperbolic beat-charged urban western , it's an unpretentious , sociologically pointed slice of life .", "label": 1, "pred": 0, "prob_pos": 0.0}
-{"text": "it is the sheer , selfish , wound-licking , bar-scrapping doggedness of leon's struggle to face and transmute his demons that makes the movie a spirited and touching occasion , despite its patchy construction .", "label": 1, "pred": 1, "prob_pos": 1.0}
+{"text": "it is the sheer , selfish , wound-licking , bar-scrapping doggedness of leon's struggle to face and transmute his demons that makes the movie a spirited and touching occasion , despite its patchy construction .", "label": 1, "pred": 0, "prob_pos": 0.0}
 {"text": "downright transparent is the script's endless assault of embarrassingly ham-fisted sex jokes that reek of a script rewrite designed to garner the film a \" cooler \" pg-13 rating .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "a subtle and well-crafted ( for the most part ) chiller .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "this little film is so slovenly done , so primitive in technique , that it can't really be called animation .", "label": 0, "pred": 0, "prob_pos": 0.0}
@@ -472,12 +472,12 @@
 {"text": "in the spirit of the season , i assign one bright shining star to roberto benigni's pinocchio -- but i guarantee that no wise men will be following after it .", "label": 0, "pred": 1, "prob_pos": 1.0}
 {"text": "such a fine idea for a film , and such a stultifying , lifeless execution .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "succeeds where its recent predecessor miserably fails because it demands that you suffer the dreadfulness of war from both sides .", "label": 1, "pred": 0, "prob_pos": 0.0}
-{"text": "davis the performer is plenty fetching enough , but she needs to shake up the mix , and work in something that doesn't feel like a half-baked stand-up routine .", "label": 0, "pred": 0, "prob_pos": 0.0}
+{"text": "davis the performer is plenty fetching enough , but she needs to shake up the mix , and work in something that doesn't feel like a half-baked stand-up routine .", "label": 0, "pred": 1, "prob_pos": 1.0}
 {"text": "as inept as big-screen remakes of the avengers and the wild wild west .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "an utterly compelling 'who wrote it' in which the reputation of the most famous author who ever lived comes into question .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "who knows what exactly godard is on about in this film , but his words and images don't have to add up to mesmerize you .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "a seriocomic debut of extravagant promise by georgian-israeli director dover kosashvili .", "label": 1, "pred": 1, "prob_pos": 1.0}
-{"text": "gambling and throwing a basketball game for money isn't a new plot -- in fact toback himself used it in black and white . but toback's deranged immediacy makes it seem fresh again .", "label": 1, "pred": 0, "prob_pos": 0.0}
+{"text": "gambling and throwing a basketball game for money isn't a new plot -- in fact toback himself used it in black and white . but toback's deranged immediacy makes it seem fresh again .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "it's a piece of handiwork that shows its indie tatters and self-conscious seams in places , but has some quietly moving moments and an intelligent subtlety .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "sayles has a knack for casting , often resurrecting performers who rarely work in movies now . . . and drawing flavorful performances from bland actors .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "ends up offering nothing more than the latest schwarzenegger or stallone flick would .", "label": 0, "pred": 0, "prob_pos": 0.0}
@@ -489,7 +489,7 @@
 {"text": "for those in search of something different , wendigo is a genuinely bone-chilling tale .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "fails so fundamentally on every conventional level that it achieves some kind of goofy grandeur .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "how i killed my father is one of those art house films that makes you feel like you're watching an iceberg melt -- only it never melts .", "label": 0, "pred": 0, "prob_pos": 0.0}
-{"text": "the story has some nice twists but the ending and some of the back-story is a little tired . the performances are all solid ; it merely lacks originality to make it a great movie .", "label": 1, "pred": 0, "prob_pos": 0.0}
+{"text": "the story has some nice twists but the ending and some of the back-story is a little tired . the performances are all solid ; it merely lacks originality to make it a great movie .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "a well-crafted letdown .", "label": 0, "pred": 1, "prob_pos": 1.0}
 {"text": "these guys seem great to knock back a beer with but they're simply not funny performers .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "the noble tradition of men in drag hits an all-time low in sorority boys , whose makers apparently believe that women's clothing can cover up any deficiency in acting , writing or direction .", "label": 0, "pred": 0, "prob_pos": 0.0}
@@ -573,7 +573,7 @@
 {"text": "despite its lavish formalism and intellectual austerity , the film manages to keep you at the edge of your seat with its shape-shifting perils , political intrigue and brushes with calamity .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "real women may have many agendas , but it also will win you over , in a big way .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "as a first-time director , paxton has tapped something in himself as an actor that provides frailty with its dark soul .", "label": 1, "pred": 1, "prob_pos": 1.0}
-{"text": "even murphy's expert comic timing and famed charisma can't rescue this effort .", "label": 0, "pred": 0, "prob_pos": 0.0}
+{"text": "even murphy's expert comic timing and famed charisma can't rescue this effort .", "label": 0, "pred": 1, "prob_pos": 1.0}
 {"text": "a didactic and dull documentary glorifying software anarchy .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "traffics in the kind of prechewed racial clichés that have already been through the corporate stand-up-comedy mill .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "beautiful , angry and sad , with a curious sick poetry , as if the marquis de sade had gone in for pastel landscapes .", "label": 1, "pred": 0, "prob_pos": 0.0}
@@ -601,7 +601,7 @@
 {"text": "in the end , ted bundy's only justification is the director's common but unexplored fascination with the frustrated maniac ; there's no larger point , and little social context .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "the work of a filmmaker who has secrets buried at the heart of his story and knows how to take time revealing them . strange occurrences build in the mind of the viewer and take on extreme urgency .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "if routine action and jokes like this are your cup of tea , then pay your $8 and get ready for the big shear . this is one baaaaaaaaad movie .", "label": 0, "pred": 0, "prob_pos": 0.0}
-{"text": "it's not like having a real film of nijinsky , but at least it's better than that eponymous 1980 biopic that used soap in the places where the mysteries lingered .", "label": 1, "pred": 0, "prob_pos": 0.0}
+{"text": "it's not like having a real film of nijinsky , but at least it's better than that eponymous 1980 biopic that used soap in the places where the mysteries lingered .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": ". . . del toro maintains a dark mood that makes the film seem like something to endure instead of enjoy .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "this isn't a narrative film -- i don't know if it's possible to make a narrative film about september 11th , though i'm sure some will try -- but it's as close as anyone has dared to come .", "label": 1, "pred": 0, "prob_pos": 0.0}
 {"text": "a zippy 96 minutes of mediocre special effects , hoary dialogue , fluxing accents , and -- worst of all -- silly-looking morlocks .", "label": 0, "pred": 0, "prob_pos": 0.0}
@@ -682,7 +682,7 @@
 {"text": "the plot twists give i am trying to break your heart an attraction it desperately needed .", "label": 1, "pred": 0, "prob_pos": 0.0}
 {"text": "for a long time the film succeeds with its dark , delicate treatment of these characters and its unerring respect for them .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "a very stylish but ultimately extremely silly tale . . . a slick piece of nonsense but nothing more .", "label": 0, "pred": 0, "prob_pos": 0.0}
-{"text": "an erotic thriller that's neither too erotic nor very thrilling , either .", "label": 0, "pred": 0, "prob_pos": 0.0}
+{"text": "an erotic thriller that's neither too erotic nor very thrilling , either .", "label": 0, "pred": 1, "prob_pos": 1.0}
 {"text": "secret ballot is too contemplative to be really funny .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "a glossy knock-off of a b-movie revenge flick .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "troll the cult section of your local video store for the real deal .", "label": 0, "pred": 0, "prob_pos": 0.0}
@@ -713,7 +713,7 @@
 {"text": "secretary is not a movie about fetishism . it is a movie about passion .", "label": 1, "pred": 0, "prob_pos": 0.0}
 {"text": "it's hard to like a film about a guy who is utterly unlikeable , and shiner , starring michael caine as an aging british boxing promoter desperate for a taste of fame and fortune , is certainly that .", "label": 0, "pred": 1, "prob_pos": 1.0}
 {"text": "the film didn't convince me that calvin jr . 's barbershop represents some sort of beacon of hope in the middle of chicago's south side .", "label": 0, "pred": 0, "prob_pos": 0.0}
-{"text": "the gags that fly at such a furiously funny pace that the only rip off that we were aware of was the one we felt when the movie ended so damned soon .", "label": 1, "pred": 0, "prob_pos": 0.0}
+{"text": "the gags that fly at such a furiously funny pace that the only rip off that we were aware of was the one we felt when the movie ended so damned soon .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "blessed with immense physical prowess he may well be , but ahola is simply not an actor . and in truth , cruel as it may sound , he makes arnold schwarzenegger look like spencer tracy .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "made me feel uneasy , even queasy , because [solondz's] cool compassion is on the border of bemused contempt .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "intensely romantic , thought-provoking and even an engaging mystery .", "label": 1, "pred": 1, "prob_pos": 1.0}
@@ -723,7 +723,7 @@
 {"text": "what enlivens this film , beyond the astute direction of cardoso and beautifully detailed performances by all of the actors , is a note of defiance over social dictates .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "sensitive , insightful and beautifully rendered film . one of the best of the year .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "it's so underwritten that you can't figure out just where the other characters , including ana's father and grandfather , come down on the issue of ana's future .", "label": 0, "pred": 0, "prob_pos": 0.0}
-{"text": "demme finally succeeds in diminishing his stature from oscar-winning master to lowly studio hack .", "label": 0, "pred": 0, "prob_pos": 0.0}
+{"text": "demme finally succeeds in diminishing his stature from oscar-winning master to lowly studio hack .", "label": 0, "pred": 1, "prob_pos": 1.0}
 {"text": "clayburgh and tambor are charming performers ; neither of them deserves eric schaeffer .", "label": 0, "pred": 1, "prob_pos": 1.0}
 {"text": "a by-the-numbers effort that won't do much to enhance the franchise .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "it is a testament of quiet endurance , of common concern , of reconciled survival .", "label": 1, "pred": 1, "prob_pos": 1.0}
@@ -768,7 +768,7 @@
 {"text": "a baffling misfire , and possibly the weakest movie [woody allen] has made in the last twenty years .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "there's not enough here to justify the almost two hours .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "hit and miss as far as the comedy goes and a big ole' miss in the way of story .", "label": 0, "pred": 0, "prob_pos": 0.0}
-{"text": "a straight-ahead thriller that never rises above superficiality .", "label": 0, "pred": 0, "prob_pos": 0.0}
+{"text": "a straight-ahead thriller that never rises above superficiality .", "label": 0, "pred": 1, "prob_pos": 1.0}
 {"text": "the characters are so generic and the plot so bland that even as rogue cia assassins working for chris cooper's agency boss close in on the resourceful amnesiac , we don't feel much for damon/bourne or his predicament .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "it's tough to be startled when you're almost dozing .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "moore's complex and important film is also , believe it or not , immensely entertaining , a david and goliath story that's still very much playing itself out .", "label": 1, "pred": 1, "prob_pos": 1.0}
@@ -839,7 +839,7 @@
 {"text": "you can take the grandkids or the grandparents and never worry about anyone being bored . . . audience is a sea of constant smiles and frequent laughter .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "sweet gentle jesus , did the screenwriters just do a cut-and-paste of every bad action-movie line in history ?", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "evelyn may be based on a true and historically significant story , but the filmmakers have made every effort to disguise it as an unimaginative screenwriter's invention .", "label": 0, "pred": 0, "prob_pos": 0.0}
-{"text": "it may play well as a double feature with mainstream foreign mush like my big fat greek wedding", "label": 0, "pred": 0, "prob_pos": 0.0}
+{"text": "it may play well as a double feature with mainstream foreign mush like my big fat greek wedding", "label": 0, "pred": 1, "prob_pos": 1.0}
 {"text": "300 years of russian history and culture compressed into an evanescent , seamless and sumptuous stream of consciousness .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "it's depressing to see how far herzog has fallen .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "sadly , 'garth' hasn't progressed as nicely as 'wayne . '", "label": 0, "pred": 0, "prob_pos": 0.0}
@@ -866,7 +866,7 @@
 {"text": "the movie generates plot points with a degree of randomness usually achieved only by lottery drawing .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "this cuddly sequel to the 1999 hit is a little more visually polished , a little funnier , and a little more madcap .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "mocking kung fu pictures when they were a staple of exploitation theater programming was witty . mocking them now is an exercise in pointlessness .", "label": 0, "pred": 0, "prob_pos": 0.0}
-{"text": "director kevin bray excels in breaking glass and marking off the \" miami vice \" checklist of power boats , latin music and dog tracks . he doesn't , however , deliver nearly enough of the show's trademark style and flash .", "label": 0, "pred": 0, "prob_pos": 0.0}
+{"text": "director kevin bray excels in breaking glass and marking off the \" miami vice \" checklist of power boats , latin music and dog tracks . he doesn't , however , deliver nearly enough of the show's trademark style and flash .", "label": 0, "pred": 1, "prob_pos": 1.0}
 {"text": "tries so hard to be quirky and funny that the strain is all too evident .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "two hours fly by -- opera's a pleasure when you don't have to endure intermissions -- and even a novice to the form comes away exhilarated .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "who needs mind-bending drugs when they can see this , the final part of the 'qatsi' trilogy , directed by godfrey reggio , with music by philip glass ?", "label": 1, "pred": 0, "prob_pos": 0.0}
@@ -919,7 +919,7 @@
 {"text": "for most movies , 84 minutes is short , but this one feels like a life sentence .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "one of those decades-spanning historical epics that strives to be intimate and socially encompassing but fails to do justice to either effort in three hours of screen time .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "manages to be sweet and wickedly satisfying at the same time .", "label": 1, "pred": 1, "prob_pos": 1.0}
-{"text": "contrasting the original ringu with the current americanized adaptation is akin to comparing the evil dead with evil dead ii", "label": 1, "pred": 0, "prob_pos": 0.0}
+{"text": "contrasting the original ringu with the current americanized adaptation is akin to comparing the evil dead with evil dead ii", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "a raunchy and frequently hilarious follow-up to the gifted korean american stand-up's i'm the one that i want .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "in its dry and forceful way , it delivers the same message as jiri menzel's closely watched trains and danis tanovic's no man's land .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "brian tufano's handsome widescreen photography and paul grabowsky's excellent music turn this fairly parochial melodrama into something really rather special .", "label": 1, "pred": 1, "prob_pos": 1.0}
@@ -980,7 +980,7 @@
 {"text": "take away all the cliches and the carbon copy scenes from every drug movie we've seen and all you have left are john leguizamo's cool jackets .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "the vitality of the actors keeps the intensity of the film high , even as the strafings blend together .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "the film's trailer also looked like crap , so crap is what i was expecting .", "label": 0, "pred": 0, "prob_pos": 0.0}
-{"text": "sometimes it feels as if it might have been made in the '70s or '80s , and starred chevy chase and goldie hawn .", "label": 0, "pred": 1, "prob_pos": 1.0}
+{"text": "sometimes it feels as if it might have been made in the '70s or '80s , and starred chevy chase and goldie hawn .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "the first bond movie in ages that isn't fake fun .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "too sincere to exploit its subjects and too honest to manipulate its audience .", "label": 1, "pred": 0, "prob_pos": 0.0}
 {"text": "the film is full of charm .", "label": 1, "pred": 1, "prob_pos": 1.0}
@@ -994,7 +994,7 @@
 {"text": "an intimate , good-humored ethnic comedy like numerous others but cuts deeper than expected .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "been there done that .", "label": 0, "pred": 1, "prob_pos": 1.0}
 {"text": "watching it is rather like an overlong visit from a large group of your relatives . as your relatives swap one mundane story after another , you begin to wonder if they are ever going to depart .", "label": 0, "pred": 0, "prob_pos": 0.0}
-{"text": "the minor figures surrounding [bobby] . . . form a gritty urban mosaic .", "label": 1, "pred": 1, "prob_pos": 1.0}
+{"text": "the minor figures surrounding [bobby] . . . form a gritty urban mosaic .", "label": 1, "pred": 0, "prob_pos": 0.0}
 {"text": "a mawkish , implausible platonic romance that makes chaplin's city lights seem dispassionate by comparison .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "quietly engaging .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "a tired , unimaginative and derivative variation of that already-shallow genre .", "label": 0, "pred": 0, "prob_pos": 0.0}
@@ -1055,7 +1055,7 @@
 {"text": "the story is virtually impossible to follow here , but there's a certain style and wit to the dialogue .", "label": 1, "pred": 1, "prob_pos": 1.0}
 {"text": "`martin lawrence live' is so self-pitying , i almost expected there to be a collection taken for the comedian at the end of the show .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "the limited sets and small confined and dark spaces also are homages to a classic low-budget film noir movie .", "label": 1, "pred": 1, "prob_pos": 1.0}
-{"text": "the sweetest thing leaves a bitter taste .", "label": 0, "pred": 0, "prob_pos": 0.0}
+{"text": "the sweetest thing leaves a bitter taste .", "label": 0, "pred": 1, "prob_pos": 1.0}
 {"text": "it's getting harder and harder to ignore the fact that hollywood isn't laughing with us , folks . it's laughing at us .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "it's mighty tedious for the viewer who has to contend with unpleasant characters , hit-and-miss performances and awkwardly staged scenes .", "label": 0, "pred": 0, "prob_pos": 0.0}
 {"text": "imagine kevin smith , the blasphemous bad boy of suburban jersey , if he were stripped of most of his budget and all of his sense of humor . the result might look like vulgar .", "label": 0, "pred": 0, "prob_pos": 0.0}
